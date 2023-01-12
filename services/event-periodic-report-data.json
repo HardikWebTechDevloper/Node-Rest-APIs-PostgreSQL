@@ -1,0 +1,121 @@
+{
+    "event": [
+        {
+            "unit": "Social Affairs",
+            "columns": [
+                "Date",
+                "District",
+                "Taluk",
+                "Organization",
+                "Leader",
+                "Crop Name",
+                "Type of Suicide",
+                "Dam Name",
+                "Police Station",
+                "Section of Law",
+                "Crime#",
+                "UDR#"
+            ]
+        },
+        {
+            "unit": "Current Affairs",
+            "columns": [
+                "Date",
+                "District",
+                "Taluk",
+                "Organization",
+                "Leader",
+                "Crop Name",
+                "Dam Name",
+                "Police Station",
+                "Section of Law",
+                "Crime#",
+                "UDR#"
+            ]
+        },
+        {
+            "unit": "Admin",
+            "columns": [
+                "Date",
+                "District",
+                "Taluk",
+                "Organization",
+                "Leader",
+                "Police Station",
+                "Section of Law",
+                "Crime#",
+                "UDR#"
+            ]
+        },
+        {
+            "unit": "CI Cell",
+            "columns": [
+                "Date",
+                "District",
+                "Taluk",
+                "Organization",
+                "Political Party",
+                "Court Name",
+                "Case Type",
+                "Prison",
+                "Agency",
+                "Newspapers",
+                "Police Station",
+                "Section of Law",
+                "Crime#",
+                "UDR#"
+            ]
+        },
+        {
+            "unit": "Security",
+            "columns": [
+                "Date",
+                "District",
+                "Taluk",
+                "Death",
+                "Injury",
+                "Police Station",
+                "Section of Law"
+            ]
+        },
+        {
+            "unit": "All",
+            "columns": [
+                "Date",
+                "District",
+                "Taluk",
+                "Place",
+                "Organization",
+                "Leader",
+                "Political Party",
+                "Crop Name",
+                "Type of Suicide",
+                "Dam Name",
+                "Court Name",
+                "Case Type",
+                "CC/SC#",
+                "Prison",
+                "Newspapers",
+                "Agency",
+                "Police Station",
+                "Section of Law",
+                "Crime#",
+                "UDR#"
+            ]
+        }
+    ],
+    "document": [
+        "Unit",
+        "Section",
+        "Desk",
+        "Document Type",
+        "Classification Level",
+        "State",
+        "District",
+        "Place",
+        "Occurrence Date",
+        "Organization",
+        "Leader",
+        "Accused or Absconding"
+    ]
+}
